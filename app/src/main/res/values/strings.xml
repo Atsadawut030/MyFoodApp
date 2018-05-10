@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFoodApp</string>
+    <string name="my_name">นายจิรายุ เคลือวัลย์ 001</string>
+    <string name="my_name1">นายอัษฏาวุฒิ เปียคง 030</string>
+    <string name="my_name2">นายคณิติน แซ่เตียว 080</string>
+    <string name="my_name3">นายกฤตมุข ธนรัช 082</string>
+    <string name="app_major">หลักสูตรวิทยาการคอมพิวเตอร์</string>
+    <string name="app_university">มหาวิทยาลัยสวนดุสิต</string>
+</resources>
